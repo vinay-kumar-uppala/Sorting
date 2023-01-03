@@ -6,7 +6,7 @@
 **Time Complexity**  
 Bestcase - O(n) when array sorted  
 worstcase - O(n2) when array is sorted in descending order  
-**Space Complexity**
+**Space Complexity**  
 O(1) - there is no external use of array
 
 ## Merge sort
