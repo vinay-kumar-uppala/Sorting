@@ -1,6 +1,6 @@
 # Sorting
 Sorting Algorithms
-Bubble sort 
+Bubble sort##
 *Time Complexity
 bestcase - O(n) when array sorted
 worstcase - O(n2) when array is sorted in descending order
@@ -12,7 +12,7 @@ best case - O(nlogn)
 Worst Case - O(nlogn) 
 **Space O(n) as there is an external use of an array
 
-Heap Sort
+Heap Sort##
 *Time Complexity
 best case - Worst Case - O(nlogn)
 **Space Complexity 
